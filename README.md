@@ -4,7 +4,7 @@ Este script JavaScript permite abrir automaticamente os links das streams da Twi
 
 ## Como Usar
 
-1. **Instalação**: Não é necessário instalação. Basta copiar o código e incorporá-lo ao seu projeto ou página web.
+1. **Instalação**: Adicione o script através de alguma extensão que abra automaticamente o script na página https://www.twitch.tv/directory/following/live
 
 2. **Funcionalidade**: O script adiciona um botão "Abrir streams" a uma determinada div em sua página web. Ao clicar neste botão, o script pergunta ao usuário se deseja executar o processo para abrir os links das streams.
 
@@ -16,7 +16,6 @@ Este script JavaScript permite abrir automaticamente os links das streams da Twi
 
 - **Requisitos**: Certifique-se de ter uma estrutura HTML com uma div específica identificada por uma classe ('.Layout-sc-1xcs6mc-0.ivrFkx') onde o botão será adicionado.
 
-- **Modificação**: Personalize o código do botão e da div conforme as necessidades de design e funcionalidade da sua página.
 
 ## Contribuições
 
